@@ -1,0 +1,3 @@
+Version control helps me track changes in my project over time. It allows me to save different versions, go back if I make mistakes, and understand how my work evolves. It also makes collaborating easier because multiple people can work on the same project without messing up each other’s files.
+It helps me experiment with new ideas safely and keep a history of changes. I can always go back if something goes wrong.
+
